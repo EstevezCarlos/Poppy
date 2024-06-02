@@ -6,15 +6,13 @@
         "**/CVS": true,
         "**/.DS_Store": true,
         "**/Thumbs.db": true,
-        "docs/css": true,
-        ".vscode": true,
         "LICENSE": true,
-        "README.md": true
+        "README.md": true,
+        ".vscode": true
     },
     "hide-files.files": [
-        "docs/css",
-        ".vscode",
         "LICENSE",
-        "README.md"
+        "README.md",
+        ".vscode"
     ]
 }
