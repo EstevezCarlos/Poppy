@@ -1,17 +1,4 @@
-doctype html
-html(lang="en")
-    head
-        meta(charset="UTF-8")
-        meta(name="viewport", content="width=device-width, initial-scale=1.0")
-        title {{title}}@POPPY
-        link(rel="stylesheet", href="css/rsm_gh.min.css")
-    body
-        h1 {{title}}
-        header
-            nav 
-                ul
-                    | {% for post in site.posts %}
-                    li {{ post.excerpt }}
-                    | {% endfor %}
-        main {{content}}
-    footer Footer
+extends base 
+block head
+    link(rel="stylesheet", href="css/rsm_gh.min.css")
+
