@@ -1,2 +1,2 @@
-# Poppy
+# POPPY
 POlska Przygoda z PYthonem
