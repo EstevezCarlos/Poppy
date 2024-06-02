@@ -1,2 +1,1 @@
-# POPPY
-POlska Przygoda z PYthonem
+Repo for POPPY website

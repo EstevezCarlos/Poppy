@@ -3,10 +3,10 @@ html(lang="en")
     head
         meta(charset="UTF-8")
         meta(name="viewport", content="width=device-width, initial-scale=1.0")
-        title {{title}}
+        title {{title}}@POPPY
         link(rel="stylesheet", href="{{style.url}}")
     body
-        h1 {{title}} | POPPY
+        h1 {{title}}
         header
             nav 
                 ul
@@ -14,4 +14,4 @@ html(lang="en")
                     li {{ post.excerpt }}
                     | {% endfor %}
         main {{content}}
-    footer WiP
+    footer Footer
