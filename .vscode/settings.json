@@ -14,5 +14,8 @@
         "LICENSE",
         "README.md",
         ".vscode"
-    ]
+    ],
+    "compile-hero.generate-minified-html": true,
+    "compile-hero.generate-minified-html-only": false,
+    "compile-hero.pug-output-directory": "../"
 }
