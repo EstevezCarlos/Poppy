@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: quiz
 ---
 
 1. Jaka jest wartość zmiennej `ham`?
