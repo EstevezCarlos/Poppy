@@ -24,10 +24,10 @@ layout: quiz
 
    «7»
 
-3. Które z wyrażeń jest równe zmiennej `foo` w załączonym fragmencie kodu?
+3. Które z wyrażeń jest równe zmiennej `egg` w załączonym fragmencie kodu?
 
     ```python
-    foo = 2**3**4**5
+    egg = 2**3**4**5
     ```
 
     1. `((2**3) ** 4) ** 5`
@@ -55,10 +55,10 @@ layout: quiz
 
     4. > Jeżeli wyrażenie zawiera kilka operatorów potęgowania, największy priorytet ma ten najbardziej z prawej strony.
 
-6. Jaka jest wartość zmiennej `bar` w załączonym fragmencie kodu?
+6. Jaka jest wartość zmiennej `ham` w załączonym fragmencie kodu?
     ```python
-    foo = 26 // 6
-    bar = foo // 3
+    egg = 26 // 6
+    ham = egg // 3
     ```
 
     «1»
@@ -73,22 +73,22 @@ layout: quiz
 
     4. Operator `//` zwraca wynik pierwiastkowania.
 
-8. Jaka jest wartość zmiennej `c` w załączonym fragmencie kodu?
+8. Jaka jest wartość zmiennej `spam` w załączonym fragmencie kodu?
 
     ```python
-    a = 81
-    b = 3
-    c = a ** 1 // b
+    egg = 81
+    ham = 3
+    spam = egg ** 1 // ham
     ```
 
     «27»
 
-9. Jaka jest wartość zmiennej `baz` w załączonym fragmencie kodu?
+9. Jaka jest wartość zmiennej `spam` w załączonym fragmencie kodu?
 
     ```python
-    foo = 16
-    bar = 1 / 2
-    baz = foo ** bar // 3
+    egg = 16
+    ham = 1 / 2
+    spam = egg ** ham // 3
     ```
 
     «1»
